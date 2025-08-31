@@ -1,0 +1,6 @@
+C:\Proyectos\EDAT\EDAT_G2_JD25_P01\Datos.Aleatorios\obj\Debug\net8.0-windows\Datos.Aleatorios.frmDatosAleatorios.resources
+C:\Proyectos\EDAT\EDAT_G2_JD25_P01\Datos.Aleatorios\obj\Debug\net8.0-windows\Datos.Aleatorios.csproj.GenerateResource.cache
+C:\Proyectos\EDAT\EDAT_G2_JD25_P01\Datos.Aleatorios\obj\Debug\net8.0-windows\Datos.Aleatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\EDAT\EDAT_G2_JD25_P01\Datos.Aleatorios\obj\Debug\net8.0-windows\Datos.Aleatorios.AssemblyInfoInputs.cache
+C:\Proyectos\EDAT\EDAT_G2_JD25_P01\Datos.Aleatorios\obj\Debug\net8.0-windows\Datos.Aleatorios.AssemblyInfo.cs
+C:\Proyectos\EDAT\EDAT_G2_JD25_P01\Datos.Aleatorios\obj\Debug\net8.0-windows\Datos.Aleatorios.csproj.CoreCompileInputs.cache
